@@ -4,7 +4,7 @@ project:
   title:        "TinyTapeoutTemplate_PhBoothCamp2026"      # Project title
   author:       "Jao Manalo"      # Your name
   discord:      "fresnelzone"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Yes"      # One line description of what your project does
+  description:  "based from Tiny Tapeout Wokwi Template"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
